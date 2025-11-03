@@ -86,15 +86,6 @@ body {
 .dot-active {
   background-color: #ce036a;
 }
-
-.copyright-text {
-  font-family: "poppins";
-  width: 100%;
-  text-align: center;
-  margin: 20px 0 0 0;
-}
-
-/* Level 2 Css part*/
 .popup {
   display: none;
   position: fixed;
